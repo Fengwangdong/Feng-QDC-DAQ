@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Base VME DAQ       
+Comment=Launch the software for the Experiments
+Exec=/usr/local/bin/BaseVMEDAQ/BaseVMEDAQ
+Icon=/usr/local/BaseVMEDAQ/iconBaseVMEDAQ.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
