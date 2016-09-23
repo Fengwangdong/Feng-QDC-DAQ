@@ -1,0 +1,15 @@
+bin/*
+build/*
+*.pro.user
+Makefile
+
+CAENUSBdrvB-1.5.1/.tmp*
+CAENUSBdrvB-1.5.1/.CAENUSBdrvB.ko.cmd
+CAENUSBdrvB-1.5.1/.CAENUSBdrvB.mod.o.cmd
+CAENUSBdrvB-1.5.1/.CAENUSBdrvB.o.cmd
+CAENUSBdrvB-1.5.1/CAENUSBdrvB.ko
+CAENUSBdrvB-1.5.1/CAENUSBdrvB.mod.c
+CAENUSBdrvB-1.5.1/CAENUSBdrvB.mod.o
+CAENUSBdrvB-1.5.1/CAENUSBdrvB.o
+CAENUSBdrvB-1.5.1/Module.symvers
+CAENUSBdrvB-1.5.1/modules.order
